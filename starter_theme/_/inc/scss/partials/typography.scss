@@ -1,0 +1,24 @@
+// Typography - Use this Partial for setting up the basic style guide for site typography. This should include: Headers, Paragraphs, List Items, Bold, Italic, Drop Caps, Support Text, etc.
+
+
+body {
+	font-family: helvetica;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: helvetica;
+}
+
+a {
+	color: #03f;
+
+	&:hover {
+		color: #03f;
+	}
+}
+
+::selection {
+	background-color: lightgrey;
+	color: inherit;
+	line-height: 1.5em;
+}
