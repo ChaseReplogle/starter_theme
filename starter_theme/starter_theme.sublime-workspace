@@ -1,0 +1,217 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/reploglec/starter_theme/starter_theme/readme.md",
+		"/Users/reploglec/Dropbox/starter_theme/readme.md",
+		"/Users/reploglec/Downloads/foundation-5.0.2.custom (2)/css/foundation.css",
+		"/Users/reploglec/Desktop/starter_server/wp-content/themes/starter_theme/_/inc/scss/venders/foundation.scss",
+		"/Users/reploglec/Desktop/starter_server/wp-config.php",
+		"/Users/reploglec/Desktop/starter_theme/reset.css",
+		"/Users/reploglec/Desktop/starter_theme/_/inc/scss/partials/buttons.scss",
+		"/Users/reploglec/Desktop/starter_theme/_/inc/scss/partials/content.scss",
+		"/Users/reploglec/Desktop/starter_theme/_/inc/scss/partials/forms.scss",
+		"/Users/reploglec/Desktop/starter_theme/_/inc/scss/partials/icons.scss",
+		"/Users/reploglec/Desktop/starter_theme/_/inc/scss/partials/messages.scss",
+		"/Users/reploglec/Desktop/starter_theme/_/inc/scss/partials/navigation.scss",
+		"/Users/reploglec/Desktop/starter_theme/_/inc/scss/partials/pagination.scss",
+		"/Users/reploglec/Desktop/starter_theme/_/inc/scss/partials/tables.scss",
+		"/Users/reploglec/Desktop/starter_theme/_/inc/scss/partials/typography.scss",
+		"/Users/reploglec/Desktop/starter_theme/_/inc/scss/partials/icons.css",
+		"/Users/reploglec/Desktop/starter_theme/header.php",
+		"/Users/reploglec/Desktop/starter_theme/_/inc/scss/modules/colors.scss",
+		"/Users/reploglec/Desktop/starter_theme/_/inc/scss/modules/typography.scss",
+		"/Users/reploglec/Desktop/starter_theme/_/inc/css/foundation.min.scss",
+		"/Users/reploglec/Desktop/starter_theme/_/inc/scss/main.scss",
+		"/Users/reploglec/Desktop/starter_theme/_/inc/scss/partials/grid.scss",
+		"/Users/reploglec/Desktop/starter_theme/_/inc/css/main.css",
+		"/Users/reploglec/Desktop/starter_theme/_/inc/scss/modules/base.scss",
+		"/Users/reploglec/Desktop/starter_theme/404.php",
+		"/Users/reploglec/Desktop/starter_theme/_/inc/scss/partials/forms.css",
+		"/Users/reploglec/Desktop/starter_theme/index.php",
+		"/Users/reploglec/Desktop/starter_theme/_/inc/scss/grid.scss",
+		"/Users/reploglec/Desktop/starter_theme/_/inc/scss/typography.scss",
+		"/Users/reploglec/Desktop/starter_theme/_/inc/css/foundation.min.css",
+		"/Users/reploglec/Desktop/starter_theme/_/js/foundation.min.js",
+		"/Users/reploglec/Downloads/foundation-5.0.2/js/foundation.min.js",
+		"/Users/reploglec/Desktop/starter_theme/functions.php",
+		"/Users/reploglec/Desktop/starter_theme/footer.php",
+		"/Users/reploglec/Downloads/foundation-5.0.2/css/foundation.min.css",
+		"/Users/reploglec/Desktop/starter_theme/style.css"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"button",
+			"h1"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "starter_theme.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 257.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
