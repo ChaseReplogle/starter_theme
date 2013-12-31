@@ -10,6 +10,7 @@
 
 
 ## Steps to Customize Before Begining
+0. Download the starter theme from my GitHub account.
 1. Rename theme folder and update theme info in /style.css.
 2. Update Theme Options in WordPress admin under Apperance and Theme.
 3. Update Wordpress settings (General and Permalinks).
