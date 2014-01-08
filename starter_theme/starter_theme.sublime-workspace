@@ -7,14 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "readme.txt",
-			"settings":
-			{
-				"buffer_size": 1385,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -68,6 +60,8 @@
 	},
 	"file_history":
 	[
+		"/Users/reploglec/starter_theme/starter_theme/readme.txt",
+		"/Users/reploglec/Desktop/starter_server/wp-content/themes/starter_theme/_/inc/js/video.js",
 		"/Users/reploglec/starter_theme/starter_theme/readme.md",
 		"/Users/reploglec/Dropbox/starter_theme/readme.md",
 		"/Users/reploglec/Downloads/foundation-5.0.2.custom (2)/css/foundation.css",
@@ -140,37 +134,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "readme.txt",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1385,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								632,
-								632
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Markdown/Markdown.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
